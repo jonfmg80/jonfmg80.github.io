@@ -101,6 +101,14 @@ Titan Access is a field operations application supporting the lifecycle of const
 
 AroundAbout Live was a location-based discovery application for finding nearby restaurants, bars, clubs, activities, and venues.
 
+<p align="center">
+  <img src="AroundAbout/screen-0.png" width="230" alt="Landing page">
+  <img src="AroundAbout/screen-1.png" width="230" alt="Like page">
+  <img src="AroundAbout/screen-2.png" width="230" alt="Detail page">
+  <img src="AroundAbout/screen-3.png" width="230" alt="Map page">
+  <img src="AroundAbout/screen-4.png" width="230" alt="Landing page 2">
+</p>
+
 ### What I worked on
 
 - Developed native iOS functionality.
@@ -122,6 +130,12 @@ AroundAbout Live was a location-based discovery application for finding nearby r
 **Tech:** Objective-C, Device Integration
 
 PeriCoach was a companion application for a physical sensor device used for pelvic-floor training and formed part of a Class I medical-device system.
+
+<p align="center">
+  <img src="Pericoach/pericoach1.png" width="230" alt="Menu page">
+  <img src="Pericoach/pericoach2.png" width="230" alt="Graph page">
+  <img src="Pericoach/pericoach3.png" width="230" alt="Form page">
+</p>
 
 ### What I worked on
 
@@ -212,6 +226,10 @@ Cricket Live Australia provided live cricket coverage including video streaming,
 
 During the 2012–2013 cricket season, the application exceeded **one million downloads**.
 
+<p align="center">
+  <img src="CricketLive/cricket_live.jpg" width="230" alt="Landing page">
+</p>
+
 ### What I worked on
 
 - Contributed to development of the production iOS application.
@@ -234,6 +252,11 @@ During the 2012–2013 cricket season, the application exceeded **one million do
 DocBox was an enterprise iPad application providing mobile access to documents and sales collateral stored through Salesforce.
 
 It allowed field sales teams to access, present, annotate, organize, and share documents while retaining access to important content when connectivity was limited.
+
+<p align="center">
+  <img src="Docbox/docbox_1.jpg" width="230" alt="Landing page">
+  <img src="Docbox/docbox_4.jpg" width="230" alt="Viewer page">
+</p>
 
 ### What I worked on
 
@@ -259,6 +282,12 @@ It allowed field sales teams to access, present, annotate, organize, and share d
 DME was an enterprise mobility platform providing secure access to corporate data and services across multiple mobile platforms.
 
 I initially worked on the **Symbian client** before transitioning to the iOS development team.
+
+<p align="center">
+  <img src="DME/DME-Calendar.png" width="230" alt="Calendar page">
+  <img src="DME/DME-Files.png" width="230" alt="Files page">
+  <img src="DME/DME-Mail.png" width="230" alt="Mail page">
+</p>
 
 ### What I worked on
 
