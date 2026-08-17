@@ -16,6 +16,13 @@ My work spans native **iOS (Swift / Objective-C)** and **Android (Java)** develo
 
 TrackIt is a mobile workforce and asset-management platform used to manage jobs, tasks, equipment, field operations, and location tracking.
 
+<p align="center">
+  <img src="images/TrackIt/TrackIt1-1.png" width="230" alt="TrackIt menu">
+  <img src="images/TrackIt/TrackIt3-1.png" width="230" alt="TrackIt device">
+  <img src="images/TrackIt/TrackIt2-1.png" width="230" alt="TrackIt map">
+  <img src="images/TrackIt/TrackIt4-1.png" width="230" alt="TrackIt Navigation">
+</p>
+
 ### What I worked on
 
 - Maintained and modernized production **iOS and Android** applications.
