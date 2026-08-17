@@ -254,7 +254,7 @@ DocBox was an enterprise iPad application providing mobile access to documents a
 It allowed field sales teams to access, present, annotate, organize, and share documents while retaining access to important content when connectivity was limited.
 
 <p align="center">
-  <img src="Docbox/docbox_1.jpg" width="230" alt="Landing page">
+  <img src="Docbox/docbox_1.jpg" width="460" alt="Landing page">
   <img src="Docbox/docbox_4.jpg" width="230" alt="Viewer page">
 </p>
 
