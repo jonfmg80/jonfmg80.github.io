@@ -132,9 +132,9 @@ AroundAbout Live was a location-based discovery application for finding nearby r
 PeriCoach was a companion application for a physical sensor device used for pelvic-floor training and formed part of a Class I medical-device system.
 
 <p align="center">
-  <img src="Pericoach/pericoach1" width="230" alt="Menu page">
-  <img src="Pericoach/pericoach2" width="230" alt="Graph page">
-  <img src="Pericoach/pericoach3" width="230" alt="Form page">
+  <img src="Pericoach/pericoach1.png" width="230" alt="Menu page">
+  <img src="Pericoach/pericoach2.png" width="230" alt="Graph page">
+  <img src="Pericoach/pericoach3.png" width="230" alt="Form page">
 </p>
 
 ### What I worked on
