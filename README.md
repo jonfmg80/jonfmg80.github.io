@@ -49,6 +49,11 @@ TrackIt is a mobile workforce and asset-management platform used to manage jobs,
 
 ING Philippines was a mobile-first digital bank providing savings accounts, payments, onboarding, check deposits, transfers, and consumer lending.
 
+<p align="center">
+  <img src="ING/ING-App-1.png" width="400" alt="ING Onboarding">
+  <img src="ING/ING-App-2.png" width="450" alt="Check Deposit">
+</p>
+
 ### What I worked on
 
 - Developed and maintained customer-facing functionality for the production iOS banking application.
