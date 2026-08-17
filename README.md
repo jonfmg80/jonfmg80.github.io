@@ -227,7 +227,7 @@ Cricket Live Australia provided live cricket coverage including video streaming,
 During the 2012–2013 cricket season, the application exceeded **one million downloads**.
 
 <p align="center">
-  <img src="CricketLive/cricket_live.jpg" width="230" alt="Landing page">
+  <img src="CricketLive/cricket_live.jpg" width="650" alt="Landing page">
 </p>
 
 ### What I worked on
