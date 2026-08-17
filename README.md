@@ -34,8 +34,8 @@ TrackIt is a mobile workforce and asset-management platform used to manage jobs,
 - Managed production releases through the **Apple App Store and Google Play Store**.
 
 **Links:**  
-[TrackIt NZ — App Store](APP_STORE_LINK)  
-[TrackIt — Google Play](GOOGLE_PLAY_LINK)
+[TrackIt NZ — App Store](https://apps.apple.com/ie/app/trackit-nz/id815505614)  
+[TrackIt — Google Play](https://play.google.com/store/apps/details?id=nz.co.trackit.android&hl=en_ZA)
 
 ---
 
@@ -65,7 +65,7 @@ ING Philippines was a mobile-first digital bank providing savings accounts, paym
 - Collaborated within a cross-functional Agile engineering team.
 
 **Link:**  
-[ING Philippines — Video](VIDEO_LINK)
+[ING Philippines — Video](https://www.youtube.com/watch?v=X-QlOQgwtb8&list=PLiEa9j0acA-5kETWIjnMrXpvCfWgUwK4A)
 
 ---
 
@@ -87,7 +87,7 @@ Titan Access is a field operations application supporting the lifecycle of const
 - Contributed to functionality designed for use where network connectivity could be unreliable.
 
 **Link:**  
-[Titan Hoarding Systems — Google Play](GOOGLE_PLAY_LINK)
+[Titan Hoarding Systems — Google Play](https://play.google.com/store/apps/details?id=com.buckhamduffy.titan&hl=en_US&gl=US&pli=1)
 
 ---
 
@@ -109,7 +109,7 @@ AroundAbout Live was a location-based discovery application for finding nearby r
 - Implemented functionality around venue discovery, ratings, and favorites.
 
 **Link:**  
-[AroundAbout Live — Archived Listing](ARCHIVE_LINK)
+[AroundAbout Live — Archived Listing](https://m.apkpure.com/aroundabout-live/com.appster.aroundabout)
 
 ---
 
@@ -131,7 +131,7 @@ PeriCoach was a companion application for a physical sensor device used for pelv
 - Developed within the requirements of a medical-device ecosystem.
 
 **Link:**  
-[PeriCoach — App Store](APP_STORE_LINK)
+[PeriCoach — App Store](https://apps.apple.com/ph/app/pericoach/id933204028?uo=4&mt=8)
 
 ---
 
@@ -152,7 +152,7 @@ Chuzi was a matchmaking application built around a **"Spin and Admire"** interac
 - Worked on custom user-interface interactions and application behavior.
 
 **Link:**  
-[Chuzi — Archived App Listing](ARCHIVE_LINK)
+[Chuzi — Archived App Listing](https://androidappsapk.co/detail-chuzi/)
 
 ---
 
@@ -174,7 +174,7 @@ DiscoverForever provided Forever Business Owners with mobile access to training 
 - Improved usability when operating with limited or unavailable connectivity.
 
 **Link:**  
-[DiscoverForever — App Store](APP_STORE_LINK)
+[DiscoverForever — App Store](https://apps.apple.com/us/app/discover-forever/id855643762?ign-mpt=uo%3D4)
 
 ---
 
@@ -197,7 +197,7 @@ RateMySuper was an Australian financial-product comparison application that allo
 - Integrated application functionality with Salesforce services.
 
 **Link:**  
-[RateMySuper — Demo Video](VIDEO_LINK)
+[RateMySuper — Demo Video](https://www.youtube.com/watch?v=g_y0_cL16Io)
 
 ---
 
@@ -219,7 +219,7 @@ During the 2012–2013 cricket season, the application exceeded **one million do
 - Contributed to an application delivering real-time sports content during the Australian cricket season.
 
 **Link:**  
-[Cricket Live Australia — Project Archive](ARCHIVE_LINK)
+[Cricket Live Australia — Project Archive](https://monteboyd.com/cricket_live.html)
 
 ---
 
@@ -244,7 +244,7 @@ It allowed field sales teams to access, present, annotate, organize, and share d
 - Implemented document sorting, filtering, notes, and sharing functionality.
 
 **Link:**  
-[DocBox — Project Archive](ARCHIVE_LINK)
+[DocBox — Project Archive](https://monteboyd.com/docbox.html)
 
 ---
 
@@ -270,7 +270,7 @@ I initially worked on the **Symbian client** before transitioning to the iOS dev
 - Received technical training in Denmark covering iOS development and the DME iOS client.
 
 **Link:**  
-[DME 4 — App Store](APP_STORE_LINK)
+[DME 4 — App Store](https://apps.apple.com/au/app/dme-4/id323836140?ign-mpt=uo%3D4)
 
 ---
 
